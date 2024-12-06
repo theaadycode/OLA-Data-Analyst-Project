@@ -58,6 +58,7 @@ This project demonstrates a comprehensive analysis of a dataset containing 20,00
     ![total number of cancelled rides by customers](https://github.com/theaadycode/OLA-Data-Analyst-Project/blob/main/SQL%20ss/solution%203.png)
 
    *(Refer to the document for all SQL queries and answers.)*
+[SQL queries and answers.](https://github.com/theaadycode/OLA-Data-Analyst-Project/blob/main/POWER%20BI%20DASHBOARD/1.png)
 
 ---
 
@@ -115,7 +116,3 @@ The project covered the following steps:
 3. **Power BI Dashboard**:
    - Open the `.pbix` file in Power BI Desktop.
 
----
-
-## Contact
-For any queries, feel free to reach out at [your email/contact details].
